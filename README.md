@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- TROQUE o link abaixo pelo GIF fofinho de computador pixelado que você escolher -->
-  <img src="https://media1.tenor.com/m/yJRYA8Vx0Y0AAAAd/pc-xuxa.gif" alt="GIF de computador pixelado" width="220"/>
+  <div class="tenor-gif-embed" data-postid="19996957" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/pc-xuxa-rtx-toy-gif-19996957">Pc Xuxa GIF</a>from <a href="https://tenor.com/search/pc-gifs">Pc GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </p>
 
 <p align="center">
