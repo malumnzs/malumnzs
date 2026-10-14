@@ -1,8 +1,5 @@
 <h1 align="center">Oi, eu sou a Maria Luiza! 💻✨</h1>
 
-<p align="center">
-<img src="https://tenor.com/pt-BR/view/pc-xuxa-rtx-toy-gif-19996957" width="220"/>
-</p>
 
 <p align="center">
   Graduanda em <b>Ciência da Computação</b> pela <b>PUC Minas</b> 🎓<br>
