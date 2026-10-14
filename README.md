@@ -1,8 +1,7 @@
 <h1 align="center">Oi, eu sou a Maria Luiza! 💻✨</h1>
 
 <p align="center">
-  <!-- TROQUE o link abaixo pelo GIF fofinho de computador pixelado que você escolher -->
-  <div class="tenor-gif-embed" data-postid="19996957" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/pc-xuxa-rtx-toy-gif-19996957">Pc Xuxa GIF</a>from <a href="https://tenor.com/search/pc-gifs">Pc GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/pt-BR/view/pc-xuxa-rtx-toy-gif-19996957" width="220"/>
 </p>
 
 <p align="center">
